@@ -25,13 +25,13 @@ The Content-Based Course Recommendation System is a Python-based application des
 To set up the Content-Based Course Recommendation System on your local machine, follow these steps:
 
 1. Clone the repository:
-   
+   ```bash
    git clone https://github.com/PynaPavani/course-recommendation-system.git
    ```
 2. Navigate to the project directory:
    
    cd course-recommendation-system
-   `
+   
 3. Install the required dependencies:
    
    pip install -r requirements.txt
